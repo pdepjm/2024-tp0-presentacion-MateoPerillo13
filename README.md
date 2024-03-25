@@ -1,8 +1,8 @@
 ## Mis datos
-### Nombre: *Mateo Perillo*
-### Edad: *19 años*
-### Legajo: *213.995-9*
-### Propuesta: *Ingeniería en Sistemas de Información*
+### Nombre: Mateo Perillo
+### Edad: 19 años
+### Legajo: 213.995-9
+### Propuesta: Ingeniería en Sistemas de Información
 
 ![Screenshot_20240323-171948](https://github.com/pdepjm/2024-tp0-presentacion-MateoPerillo13/assets/129476465/063af2b6-8ffa-4c8e-9c57-471e1c0a2287)
 
@@ -15,8 +15,10 @@ La desición de comenzar ambas carreras a la vez no fue intencional, sino que as
 ## Sobre mí
 + Soy de Parque Avellaneda
 + Me gustan los deportes, en especial el Vóley, la programación y los gatos
-+ Disfruto de escuchar música clásica, electrónica y heavy metal
++ Disfruto de escuchar música clásica(1), electrónica(2) y heavy metal(3)
 
+###### *Canciones que recomiendo*
+###### (1) Scriabin - Etude Op. 8 No. 12     |   (2) t+pazolite, Laur - Pandemonium   |   (3) Polaris - Dissipate
 
 ## Más información
 Para ustedes, Otoña (a.k.a. Ottita)
